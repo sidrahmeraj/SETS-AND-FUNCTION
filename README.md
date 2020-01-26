@@ -9,10 +9,15 @@ Fourth Function is for Inverse of Function.
 1. Install Anaconda 3 and Open Jupyter Notebook to run the code given in file.
 2. Run the code and input values as asked.
 # OPERATIONS:
+## SETS:
 Operations on sets: The symbol ∪ is employed to denote the union of two sets. Thus, the set A ∪ B—read “A union B” or “the union of A and B”—is defined as the set that consists of all elements belonging to either set A or set B (or both). ... Any two sets whose intersection is the empty set are said to be disjoint.
 
-
 ![image](https://user-images.githubusercontent.com/60255676/73139496-5c866000-4090-11ea-9561-369eaf3befd9.png)
+
+ 
+![image](https://user-images.githubusercontent.com/60265355/73140433-aa07ca80-409a-11ea-9b2b-da59d93028be.png)
+## FUNCTIONS:
+ an inverse function (or anti-function) is a function that "reverses" another function: if the function f applied to an input x gives a result of y, then applying its inverse function g to y gives the result x, and vice versa, i.e., f(x) = y if and only if g(y) = x.
 
 
 # NOTATIONS:
