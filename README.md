@@ -6,5 +6,5 @@ Second Function is for Function Graph Plotting.
 Third Function is for Inverse Function Graph Plotting and its values.
 Fourth Function is for Inverse of Function.
 # STEPS TO RUN PROGRAM:
-Install Anaconda 3 and Open Jupyter Notebook to run the code given in file.
-Run the code and input values as asked.
+1. Install Anaconda 3 and Open Jupyter Notebook to run the code given in file.
+2. Run the code and input values as asked.
